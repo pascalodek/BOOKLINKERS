@@ -16,7 +16,7 @@ $(document).ready(function() {
   http://keith-wood.name/countdownRef.html
   */
   $(".timer").countdown({
-    until: '+1m',
+    until: '+30d',
     labels: ['Years', 'Months', 'Weeks', 'Days', 'Hrs', 'Mins', 'Secs']
   });
 });
